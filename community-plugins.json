@@ -73351,5 +73351,12 @@
     "author": "pixari",
     "description": "Send lines from any note to your own OpenTodo server as tasks that link back to the note, and keep a folder of task files in two-way sync. Works offline and with encrypted accounts. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "opentodoapp/obsidian-opentodo"
+  },
+  {
+    "id": "margin-cards",
+    "name": "Margin Cards",
+    "author": "QUINN-7777",
+    "description": "Read-time margin notes in the page gutter: cards or hover bubbles, widths that scale with the pane, a Chinese or English interface, and Markdown files that are never modified. Annotations live in one JSON file.",
+    "repo": "QUINN-7777/margin-cards"
   }
 ]
